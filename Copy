@@ -4,6 +4,7 @@ local userId = player.UserId
 local whitelistedUsers = {
     [2682864672] = true,
     [1741283905] = true
+    [9857102096] = true
     -- Add more UserIds here
 }
 
